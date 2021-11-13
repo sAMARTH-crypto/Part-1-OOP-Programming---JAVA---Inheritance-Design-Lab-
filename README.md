@@ -1,9 +1,9 @@
 # Part-1-OOP-Programming---JAVA---Inheritance-Design-Lab-
 
-## How to Run.
+### How to Run.
 
+### Create two java files uder same package.
 
-Just copy both the code files and paste it in eclipse.
+#### 1. HospitalEmployee.java (PASTE THE CODE IN IT.)
+#### 2. Hospital.java (PASTE THE CODE IN IT.)
 
-
-### create two java files uder same package.
